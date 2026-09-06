@@ -47,3 +47,14 @@ Weather API
 LLM
      ↓
 Weather Response
+
+## 📸 Screenshots
+
+### Weather Assistant Workflow
+![Weather Assistant Workflow](weather-workflow.png)
+
+### Chennai Weather
+![Chennai Weather](weather-chennai.png)
+
+### Mumbai Weather
+![Mumbai Weather](weather-mumbai.png)
