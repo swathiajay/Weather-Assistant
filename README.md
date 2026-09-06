@@ -5,7 +5,7 @@ A GenAI Weather Assistant built using Dify, Open-Meteo APIs, Python, and an LLM.
 
 ## 🚀 Live Demo
 
-👉 **[Try the Weather Assistant](PASTE-YOUR-DIFY-DEMO-LINK-HERE)**
+👉 **[Try the Weather Assistant](https://udify.app/workflow/KrKezablygnJlt9j)**
 
 A GenAI-powered weather assistant built using Dify, Open-Meteo APIs, Python, and an LLM.
 
@@ -47,7 +47,7 @@ Weather API
 LLM
      ↓
 Weather Response
-
+ ```
 ## 📸 Screenshots
 
 ### Weather Assistant Workflow
